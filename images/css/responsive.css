@@ -1,0 +1,394 @@
+@media screen and (min-width:769px) and (max-width:992px) {
+    body{
+        height: 1000px;
+    }    
+    #div{
+            flex-direction: column;
+            height: 900px;
+            width: 90%;
+            transform: translate(0%, 50px); 
+
+        }
+        .part1{
+            width: 100%;
+            height: 450px;
+        }
+        .part2{
+            width: 100%;
+            height: 450px;
+            box-sizing: content-box;
+        }
+        .part2 div:nth-child(1) p:nth-child(2){
+            width: 90%;
+            padding-left: 65px;
+        }
+        .part2 div:nth-child(1) p:nth-child(3){
+            padding-left: 70px;
+        }
+        .part2 div:nth-child(2){
+            display: flex;
+            margin:2.5% 0%;
+            padding-left: 74px;
+        }
+        button{
+            width: 80%;
+            margin-inline: 8.5%;
+        }
+}
+@media screen and (min-width:697px) and (max-width:768px) {
+    body{
+        height: 1000px;
+    }   
+    #div{
+        flex-direction: column;
+        height: 900px;
+        width: 90%;
+        transform: translate(0%, 50px); 
+    }
+    .part1{
+        width: 100%;
+        height: 400px;
+    }
+    .part2{
+        width: 100%;
+        height: 500px;
+        box-sizing: content-box;
+    }
+    .part2 div:nth-child(1) p:nth-child(1){
+        width: 90%;
+        padding-left: 65px;
+    }
+    .part2 div:nth-child(1) p:nth-child(2){
+        width: 70%;
+        padding-left: 60px;
+    }
+    .part2 div:nth-child(1) p:nth-child(3){
+        padding-left: 65px;
+    }
+    .part2 div:nth-child(2){
+        margin:5% 0%;
+        padding-left: 65px;
+    }
+    button{
+        width: 80%;
+        margin-inline: 9.5%;
+    }
+
+}
+@media screen and (min-width:610px) and (max-width:696px) {
+    body{
+        height: 1000px;
+    } 
+    #div{
+        flex-direction: column;
+        height: 900px;
+        width: 90%;
+        transform: translate(0%, 50px); 
+    }
+    .part1{
+        width: 100%;
+        height: 350px;
+    }
+    .part2{
+        width: 100%;
+        height: 550px;
+        box-sizing: content-box;
+    }
+    .part2 div:nth-child(1) p:nth-child(1){
+        width: 90%;
+        padding-left: 45px;
+    }
+    .part2 div:nth-child(1) p:nth-child(2){
+        width: 75%;
+        padding-left: 40px;
+    }
+    .part2 div:nth-child(1) p:nth-child(3){
+        padding-left: 40px;
+    }
+    .part2 div:nth-child(2){
+        margin:5% 0%;
+        padding-left: 40px;
+    }
+    button{
+        width: 90%;
+        margin-inline: 5%;
+    }
+}
+@media screen and (min-width:582px) and (max-width:609px) {
+    body{
+        height: 1000px;
+    } 
+    #div{
+        flex-direction: column;
+        height: 900px;
+        width: 90%;
+        transform: translate(0%, 50px); 
+    }
+    .part1{
+        width: 100%;
+        height: 350px;
+    }
+    .part2{
+        width: 100%;
+        height: 550px;
+        box-sizing: content-box;
+    }
+    .part2 div:nth-child(1) p:nth-child(1){
+        padding-left: 55px;
+    }
+    .part2 div:nth-child(1) p:nth-child(2){
+        width: 70%;
+        padding-left: 50px;
+    }
+    .part2 div:nth-child(1) p:nth-child(3){
+        padding-left: 50px;
+    }
+    .part2 div:nth-child(2){
+        margin:5% 0%;
+        padding-left: 50px;
+    }
+    button{
+        width: 85%;
+        margin-inline: 8%;
+    }
+}
+@media screen and (min-width:520px) and (max-width:581px) {
+    body{
+        height: 1000px;
+    } 
+    #div{
+        flex-direction: column;
+        height: 900px;
+        width: 90%;
+        transform: translate(0%, 50px); 
+    }
+    .part1{
+        width: 100%;
+        height: 350px;
+    }
+    .part2{
+        width: 100%;
+        height: 550px;
+        box-sizing: content-box;
+    }
+    .part2 div:nth-child(1) p:nth-child(1){
+        padding-left: 55px;
+    }
+    .part2 div:nth-child(1) p:nth-child(2){
+        width: 85%;
+        padding-left: 50px;
+    }
+    .part2 div:nth-child(1) p:nth-child(3){
+        padding-left: 50px;
+    }
+    .part2 div:nth-child(2){
+        margin:5% 0%;
+        padding-left: 50px;
+    }
+    button{
+        width: 85%;
+        margin-inline: 8%;
+    }
+}
+@media screen and (min-width:460px) and (max-width:519px) {
+    body{
+        height: 1000px;
+    } 
+    #div{
+        flex-direction: column;
+        height: 900px;
+        width: 90%;
+        transform: translate(0%, 50px); 
+    }
+    .part1{
+        width: 100%;
+        height: 350px;
+    }
+    .part2{
+        width: 100%;
+        height: 550px;
+        box-sizing: content-box;
+    }
+    .part2 div:nth-child(1) p:nth-child(1){
+        padding-left: 35px;
+    }
+    .part2 div:nth-child(1) p:nth-child(2){
+        width: 90%;
+        padding-left: 30px;
+    }
+    .part2 div:nth-child(1) p:nth-child(3){
+        padding-left: 30px;
+    }
+    .part2 div:nth-child(2){
+        margin:5% 0%;
+        padding-left: 30px;
+    }
+    button{
+        width: 85%;
+        margin-inline: 5%;
+    }
+}
+@media screen and (min-width:429px) and (max-width:459px) {
+    body{
+        height: 1000px;
+    } 
+    #div{
+        flex-direction: column;
+        height: 900px;
+        width: 95%;
+        transform: translate(0%, 50px); 
+    }
+    .part1{
+        width: 100%;
+        height: 350px;
+    }
+    .part2{
+        width: 100%;
+        height: 550px;
+        box-sizing: content-box;
+    }
+    .part2 div:nth-child(1) p:nth-child(1){
+        padding-left: 15px;
+    }
+    .part2 div:nth-child(1) p:nth-child(2){
+        width: 90%;
+        padding-left: 10px;
+    }
+    .part2 div:nth-child(1) p:nth-child(3){
+        padding-left: 10px;
+    }
+    .part2 div:nth-child(2){
+        margin:5% 0%;
+        padding-left: 10px;
+    }
+    button{
+        width: 85%;
+        margin-inline: 3%;
+    }
+}
+@media screen and (min-width:380px) and (max-width:428px) {
+    body{
+        height: 1000px;
+    } 
+    #div{
+        flex-direction: column;
+        height: 900px;
+        width: 95%;
+        transform: translate(0%, 50px); 
+    }
+    .part1{
+        width: 100%;
+        height: 350px;
+    }
+    .part2{
+        width: 100%;
+        height: 550px;
+        box-sizing: content-box;
+    }
+    .part2 div:nth-child(1) p:nth-child(1){
+        padding-left: 25px;
+    }
+    .part2 div:nth-child(1) p:nth-child(2){
+        width: 80%;
+        padding-left: 20px;
+        font-size: 35px;
+    }
+    .part2 div:nth-child(1) p:nth-child(3){
+        padding-left: 20px;
+        font-size: 16px;
+    }
+    .part2 div:nth-child(2){
+        margin:5% 0%;
+        padding-left: 20px;
+    }
+    button{
+        width: 85%;
+        margin-inline: 5%;
+    }
+}
+@media screen and (min-width:340px) and (max-width:379px) {
+    body{
+        height: 1000px;
+    } 
+    #div{
+        flex-direction: column;
+        height: 900px;
+        width: 95%;
+        transform: translate(0%, 50px); 
+    }
+    .part1{
+        width: 100%;
+        height: 350px;
+    }
+    .part2{
+        width: 100%;
+        height: 550px;
+        box-sizing: content-box;
+    }
+    .part2 div:nth-child(1) p:nth-child(1){
+        padding-left: 25px;
+    }
+    .part2 div:nth-child(1) p:nth-child(2){
+        width: 90%;
+        padding-left: 20px;
+        font-size: 35px;
+    }
+    .part2 div:nth-child(1) p:nth-child(3){
+        padding-left: 20px;
+        width: 80%;
+        font-size: 16px;
+    }
+    .part2 div:nth-child(2){
+        margin:5% 0%;
+        padding-left: 20px;
+    }
+    button{
+        width: 90%;
+        margin-inline: 5%;
+    }
+}
+@media screen and (min-width:320px) and (max-width:339px) {
+    body{
+        height: 1000px;
+    } 
+    #div{
+        flex-direction: column;
+        height: 900px;
+        width: 95%;
+        transform: translate(0%, 50px); 
+    }
+    .part1{
+        width: 100%;
+        height: 350px;
+    }
+    .part2{
+        width: 100%;
+        height: 550px;
+        box-sizing: content-box;
+    }
+    .part2 div:nth-child(1) p:nth-child(1){
+        padding-left: 25px;
+        font-size: 14px;
+    }
+    .part2 div:nth-child(1) p:nth-child(2){
+        width: 90%;
+        padding-left: 20px;
+        font-size: 30px;
+    }
+    .part2 div:nth-child(1) p:nth-child(3){
+        padding-left: 20px;
+        width: 80%;
+        font-size: 16px;
+    }
+    .part2 div:nth-child(2){
+        margin:5% 0%;
+        padding-left: 20px;
+    }
+    .part2 div:nth-child(2) p:nth-child(1){
+        font-size: 35px;
+    }
+    button{
+        width: 90%;
+        margin-inline: 5%;
+    }
+}
