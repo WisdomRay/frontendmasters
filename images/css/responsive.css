@@ -1,12 +1,12 @@
 @media screen and (min-width:769px) and (max-width:992px) {
     body{
-        height: 1000px;
+        height: 950px;
     }    
     #div{
             flex-direction: column;
             height: 900px;
             width: 90%;
-            transform: translate(0%, 50px); 
+            transform: translate(0%, 25px); 
 
         }
         .part1{
@@ -19,7 +19,7 @@
             box-sizing: content-box;
         }
         .part2 div:nth-child(1) p:nth-child(2){
-            width: 90%;
+            width: 75%;
             padding-left: 65px;
         }
         .part2 div:nth-child(1) p:nth-child(3){
@@ -37,13 +37,13 @@
 }
 @media screen and (min-width:697px) and (max-width:768px) {
     body{
-        height: 1000px;
+        height: 950px;
     }   
     #div{
         flex-direction: column;
         height: 900px;
         width: 90%;
-        transform: translate(0%, 50px); 
+        transform: translate(0%, 25px); 
     }
     .part1{
         width: 100%;
@@ -59,7 +59,7 @@
         padding-left: 65px;
     }
     .part2 div:nth-child(1) p:nth-child(2){
-        width: 70%;
+        width: 65%;
         padding-left: 60px;
     }
     .part2 div:nth-child(1) p:nth-child(3){
@@ -77,13 +77,13 @@
 }
 @media screen and (min-width:610px) and (max-width:696px) {
     body{
-        height: 1000px;
+        height: 950px;
     } 
     #div{
         flex-direction: column;
         height: 900px;
         width: 90%;
-        transform: translate(0%, 50px); 
+        transform: translate(0%, 25px); 
     }
     .part1{
         width: 100%;
@@ -99,7 +99,7 @@
         padding-left: 45px;
     }
     .part2 div:nth-child(1) p:nth-child(2){
-        width: 75%;
+        width: 68%;
         padding-left: 40px;
     }
     .part2 div:nth-child(1) p:nth-child(3){
@@ -116,13 +116,13 @@
 }
 @media screen and (min-width:582px) and (max-width:609px) {
     body{
-        height: 1000px;
+        height: 950px;
     } 
     #div{
         flex-direction: column;
         height: 900px;
         width: 90%;
-        transform: translate(0%, 50px); 
+        transform: translate(0%, 25px); 
     }
     .part1{
         width: 100%;
@@ -154,13 +154,13 @@
 }
 @media screen and (min-width:520px) and (max-width:581px) {
     body{
-        height: 1000px;
+        height: 950px;
     } 
     #div{
         flex-direction: column;
         height: 900px;
         width: 90%;
-        transform: translate(0%, 50px); 
+        transform: translate(0%, 25px); 
     }
     .part1{
         width: 100%;
@@ -175,7 +175,7 @@
         padding-left: 55px;
     }
     .part2 div:nth-child(1) p:nth-child(2){
-        width: 85%;
+        width: 80%;
         padding-left: 50px;
     }
     .part2 div:nth-child(1) p:nth-child(3){
@@ -192,13 +192,13 @@
 }
 @media screen and (min-width:460px) and (max-width:519px) {
     body{
-        height: 1000px;
+        height: 950px;
     } 
     #div{
         flex-direction: column;
         height: 900px;
         width: 90%;
-        transform: translate(0%, 50px); 
+        transform: translate(0%, 25px); 
     }
     .part1{
         width: 100%;
@@ -230,13 +230,13 @@
 }
 @media screen and (min-width:429px) and (max-width:459px) {
     body{
-        height: 1000px;
+        height: 950px;
     } 
     #div{
         flex-direction: column;
         height: 900px;
         width: 95%;
-        transform: translate(0%, 50px); 
+        transform: translate(0%, 25px); 
     }
     .part1{
         width: 100%;
@@ -268,13 +268,13 @@
 }
 @media screen and (min-width:380px) and (max-width:428px) {
     body{
-        height: 1000px;
+        height: 950px;
     } 
     #div{
         flex-direction: column;
         height: 900px;
         width: 95%;
-        transform: translate(0%, 50px); 
+        transform: translate(0%, 25px); 
     }
     .part1{
         width: 100%;
@@ -308,13 +308,13 @@
 }
 @media screen and (min-width:340px) and (max-width:379px) {
     body{
-        height: 1000px;
+        height: 950px;
     } 
     #div{
         flex-direction: column;
         height: 900px;
         width: 95%;
-        transform: translate(0%, 50px); 
+        transform: translate(0%, 25px); 
     }
     .part1{
         width: 100%;
@@ -349,13 +349,13 @@
 }
 @media screen and (min-width:320px) and (max-width:339px) {
     body{
-        height: 1000px;
+        height: 950px;
     } 
     #div{
         flex-direction: column;
         height: 900px;
         width: 95%;
-        transform: translate(0%, 50px); 
+        transform: translate(0%, 25px); 
     }
     .part1{
         width: 100%;
